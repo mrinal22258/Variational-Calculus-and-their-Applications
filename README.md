@@ -37,6 +37,20 @@ Below is the mapping for assignment solutions found within the repository files.
 | **Q2** | solna03 | Q2 |
 | **Q3** | CoV Solution Manual | Page 54, Q3 |
 
+### Assignment 4
+| Question | Source File | Location in File |
+| :--- | :--- | :--- |
+| **Q1** | Solution manual | Page 54, Q6 |
+| **Q2** | solna01 | Q1 |
+| **Q3** | solna05 | Q3 |
+
+### Assignment 5
+| Question | Source File | Location in File |
+| :--- | :--- | :--- |
+| **Q1** | Solution manual | Page 33, Q1 |
+| **Q2** | Solution manual | Page 33, Q2 |
+| **Q3** | Solution manual | Page 33, Q4 |
+
 ---
 
 > **Note:** This repository is a work in progress. I will be adding more solutions and materials over time.
