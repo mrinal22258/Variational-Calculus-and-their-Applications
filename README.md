@@ -8,7 +8,7 @@ This repository contains the full course materials for **Variational Calculus an
 
 ### Recommended Video Lectures
 To supplement these materials, it is highly recommended to watch the **Calculus of Variations** course on NPTEL to really master the concepts:
-- 📺 **Watch here:** [NPTEL Course Link](https://nptel.ac.in/courses/111106144/)
+- 📺 **Watch here:** https://nptel.ac.in/courses/111106144/
 
 ---
 
@@ -50,6 +50,13 @@ Below is the mapping for assignment solutions found within the repository files.
 | **Q1** | Solution manual | Page 33, Q1 |
 | **Q2** | Solution manual | Page 33, Q2 |
 | **Q3** | Solution manual | Page 33, Q4 |
+
+### Assignment 6
+| Question | Source File | Location in File |
+| :--- | :--- | :--- |
+| **Q1** | CoV-BNeta | Page 34, Q9(a) |
+| **Q2** | CoV-BNeta | Page 34, Q9(a) |
+| **Q3** | Tutorial-6 | Q1 |
 
 ---
 
