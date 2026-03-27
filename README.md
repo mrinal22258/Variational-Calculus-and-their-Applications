@@ -58,6 +58,13 @@ Below is the mapping for assignment solutions found within the repository files.
 | **Q2** | CoV-BNeta | Page 34, Q9(a) |
 | **Q3** | Tutorial-6 | Q1 |
 
+### Assignment 7
+| Question | Source File | Location in File |
+| :--- | :--- | :--- |
+| **Q1** | B-Neta | Page 92, Q5 |
+| **Q2** | B-Neta | Page 92, Q6 |
+| **Q3** | B-Neta | Page 54, Q1 |
+
 ---
 
 > **Note:** This repository is a work in progress. I will be adding more solutions and materials over time.
